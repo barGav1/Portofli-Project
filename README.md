@@ -7,3 +7,9 @@ using various technologeys including cast join and more.
 
 FirstName stats.ipynb:
 A jupyer lab notebook containg a data analysis project on the first name dataset of the Israel Central Bureau of Statistics.
+
+MinstClassi.ipynb:
+A classification project about the minst data set
+
+robusReg.ipynb:
+A regression project about the body fat data set
